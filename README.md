@@ -7,9 +7,8 @@
 -Updating profile informations, email and password, <br />
 -Sending messages to other users. <br />
 -Sending messages to other users. <br />
--I prefered Firebase as database. <br />
+-Firebase database. <br />
 -Show items around you via specified coordinates with MapKit <br />
--I used observer pattern in my codes many times especially in add items and updates parts <br /><br />
 
 
 <img width="350" alt="portfolio_view" src="https://1.bp.blogspot.com/-cIKzIY_boc8/W4wF-EWk97I/AAAAAAAAAv4/mR_JLyI5u20rCw6kF2e_WaY_HxENgwGhgCLcBGAs/s1600/5.jpg"><br /> <br /> <br /> <br /> <br /> <br />

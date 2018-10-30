@@ -1,6 +1,6 @@
 # SellYourStuff
 
-It is IOS part of 'Sell Your Stuff' application. Actually this isn't its real name, I supposed to change its name before publish to github.
+IOS client of 'Sell Your Stuff' application. Actually this isn't real name of this app, I supposed to change its name before publish to github.
 
 **Important features of this app below;** <br /> <br />
 -Finding items with search bar and show profile, <br />
